@@ -59,7 +59,8 @@ education:
     institution: Donghua University, China
     start: 2021-09-01
     end: 2025-06-30
-    summary: "Average Marks: 88/100. Honours: Second Prize Scholarship, First Prize, Second Prize, and Third Prize, 2024 Milan Design Week."
+    summary: | 
+    Average Marks 88/100. Honours Second Prize Scholarship, First Prize, Second Prize, and Third Prize, 2024 Milan Design Week.
 
 experience:
   - role: Senior AI Research Scientist
