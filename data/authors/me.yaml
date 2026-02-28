@@ -40,10 +40,10 @@ links:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Human computer interaction
+  - Vitual reality
+  - Game design
+  - Animation & Character Perception
 
 education:
   - degree: MSc Interactive Media Technology
@@ -60,7 +60,7 @@ education:
     start: 2021-09-01
     end: 2025-06-30
     summary: | 
-    Average Marks 88/100. Honours Second Prize Scholarship, First Prize, Second Prize, and Third Prize, 2024 Milan Design Week.
+      Average Marks 88/100. Honours Second Prize Scholarship, First Prize, Second Prize, and Third Prize, 2024 Milan Design Week.
 
 experience:
   - role: Senior AI Research Scientist
