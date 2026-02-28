@@ -60,14 +60,18 @@ education:
     start: 2021-09-01
     end: 2025-06-30
     summary: | 
-      Average Marks 88/100. Honours Second Prize Scholarship, First Prize, Second Prize, and Third Prize, 2024 Milan Design Week.
+      Average Marks: 88/100. Honours: Second Prize Scholarship, First Prize, Second Prize, and Third Prize, 2024 Milan Design Week.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Product Management Internship
+    org: HEXAGON
+    start: 2024-06-01
+     end: 2024-09-30
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Education Solutions Department.
+      * Assisted in the design of three-coordinate teaching products to improve user interaction.
+      * Responsible for creating virtual digital personas for Hexagon's platform.
+      * Engaged in the optimization of virtual simulation prototypes to enhance their usability.
     button:
       text: View portfolio
       url: /
