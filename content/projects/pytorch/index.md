@@ -1,15 +1,17 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Fungal Fusion
+date: 2024-9-26
 links:
   - type: site
-    url: https://github.com/pytorch/pytorch
+    url: https://youtu.be/Q8ACQb9vJFw?si=2FQS5wfIw2-ApZYV
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Interactive devices
+  - Gesture interaction
+  - Psychological healing
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+This project is a two-player interactive video game that promotes relationship-building and boundary-crossing. 
+Using gesture recognition, players embody different fungal forms, establishing a "contractual" relationship within a lichen environment.
+It aims to apply psychological healing methods to interactive games to help users get out of the difficulties of intimate relationships.
 
 <!--more-->
