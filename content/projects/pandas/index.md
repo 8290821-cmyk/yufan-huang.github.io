@@ -1,6 +1,6 @@
 ---
 title: Her care
-date: 2024-10 
+date: 2024-10-04 
 links:
   - type: Video link
     url: https://youtu.be/FYQAWVqpLyY?si=XtxXyEAjfSMj3AUG
