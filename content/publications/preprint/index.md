@@ -1,7 +1,7 @@
 ---
-title: "An example preprint / working paper"
+title: "Cooling performance of phase change ventilation clothing in construction work. Advanced Textile Technology, 2025, 33(7): 109–116. (in Chinese)"
 authors:
-- me
+- Chen, Y., Xu, M., Huang, Y(me).
 date: "2019-04-07T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
