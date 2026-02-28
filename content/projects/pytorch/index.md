@@ -16,4 +16,5 @@ This project is a two-player interactive video game that promotes relationship-b
 Using gesture recognition, players embody different fungal forms, establishing a "contractual" relationship within a lichen environment.
 It aims to apply psychological healing methods to interactive games to help users get out of the difficulties of intimate relationships.
 
-<!--more-->
+### Project Process
+![Alternative Text](/media/process_2_1.png)
