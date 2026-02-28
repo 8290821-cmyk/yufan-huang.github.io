@@ -2,7 +2,7 @@
 title: Her care
 date: 2024-10-04 
 links:
-  - type: Video link
+  - type: Video
     url: https://youtu.be/FYQAWVqpLyY?si=XtxXyEAjfSMj3AUG
 tags:
   - Mixed reality
