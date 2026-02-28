@@ -20,6 +20,3 @@ main:
     url: experience/
     weight: 13
 
-  - name: Courses
-    url: courses/
-    weight: 14
