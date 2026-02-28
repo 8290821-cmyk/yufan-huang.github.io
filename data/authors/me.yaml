@@ -85,30 +85,38 @@ experience:
       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 skills:
-  - name: Technical Skills
+  - name: VR/Development
+    items:
+      - label: Unity
+        level: 4
+      - label: Unreal Engine
+        level: 4
+  - name: Design Tools
+    items:
+      - label: Figma
+        level: 5
+      - label: Rhino
+        level: 5
+      - label: Cinema 4D
+        level: 4
+      - label: Blender
+        level: 3
+      - 
+  - name: Programming & Analysis
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+        level: 3
+      - label: SPSS
+        level: 3
+
 
 languages:
   - name: English
+    level: 4
+    label: Professional working proficiency
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
 
 awards:
   - title: Best Paper Award
