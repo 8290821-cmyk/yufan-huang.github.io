@@ -21,9 +21,8 @@ bio: |
   in VR, and the psychological impact of animation motions on character perception.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: KTH Royal Institute of Technology
+    url: https://www.kth.se/
 links:
   - icon: at-symbol
     url: mailto:alex.johnson@example.com
@@ -132,9 +131,3 @@ languages:
     level: 5
     label: Native
 
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
