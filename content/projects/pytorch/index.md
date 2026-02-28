@@ -2,7 +2,9 @@
 title: Fungal Fusion
 date: 2024-09-26
 links:
-  - type: site
+  - icon: youtube
+    icon_pack: fab
+    name: Watch Video
     url: https://youtu.be/Q8ACQb9vJFw?si=2FQS5wfIw2-ApZYV
 tags:
   - Interactive devices
