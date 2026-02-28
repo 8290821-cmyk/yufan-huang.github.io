@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "Interpretation of the University Library New Intelligent Reading Space from the Perspective of Service Design."
 authors:
+- Tao Cheng
 - me
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
