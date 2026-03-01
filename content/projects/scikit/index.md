@@ -15,4 +15,7 @@ tags:
 This project uses the special structure of fabrics and the force between gears to construct a modular building facade structure. 
 It aims to prevent birds from colliding with large areas of glass curtain walls in cities.
 
-<!--more-->
+### Project Process
+![Project Process](/uploads/Process_3_1.png)
+### Project Display
+![Project Process](/uploads/Process_3_2.png)
