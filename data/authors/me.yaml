@@ -25,10 +25,10 @@ affiliations:
     url: https://www.kth.se/
 links:
   - icon: at-symbol
-    url: yufanh@kth.se
+    url: "mailto:yufanh@kth.se"
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/example
+    url: "https://github.com/8290821-cmyk"
 
 interests:
   - Human computer interaction
