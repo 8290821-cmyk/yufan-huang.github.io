@@ -17,11 +17,8 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["course report"]
 
-# Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
 
 abstract: |
   Understanding how people join small conversational groups is important for applications ranging from computer games to human–robot collaboration. This study investigates group-joining behaviour in VR by varying the verbal and non-verbal politeness strategies of virtual agents, as well as users’ spatial starting positions. Participants entered a VR group interaction scenario centred on a social dilemma, examining how agent persuasiveness shaped participants’ trade-off between physical efficiency and social spatial norms. The results show that Direct strategies were necessary for compliance, while Positive strategies supported friendliness. Crucially, both persuasiveness and social norms collapsed significantly; this was driven by the new spatial configurations coupled with interactional ambiguity and a breakdown in perceived social presence.
@@ -76,11 +73,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-> [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+button to check out the example.
+As a key contributor to this research project, I co-designed the experimental framework and led the technical implementation within Unity, ensuring the reliability of the interactive environment. I was primarily responsible for the integration and debugging of the experimental system, as well as the acquisition and statistical analysis of heart rate variability (HRV) data to evaluate user physiological responses.
