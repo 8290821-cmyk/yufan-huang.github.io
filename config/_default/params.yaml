@@ -289,3 +289,8 @@ hugoblox:
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
+    # 尝试添加到文件最末尾（注意缩进，必须和 hugoblox: 对齐）
+    # 但通常新版模板将此设置移到了具体的 content 页面中
+sharing:
+  enable: false
+---
