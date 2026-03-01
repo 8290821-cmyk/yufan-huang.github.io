@@ -40,4 +40,4 @@ links:
 # 下面的 code, slides, dataset 等无效链接已全部删除，让页面保持整洁
 ---
 
-这里可以写一些论文的补充说明。
+As a Research Assistant and the third author of this paper, I contributed significantly to the experimental design and played a pivotal role in overseeing the implementation of the research process. My responsibilities also included data acquisition, technical drawing and visualization, and collaborating on the manuscript drafting and refinement.
