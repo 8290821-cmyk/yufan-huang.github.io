@@ -1,7 +1,7 @@
 ---
 title: "The Influence of Politeness Strategies and Spatial Starting Positions when Joining Virtual Agents in Small Groups"
 authors:
-  - "Yufan Huang"
+  - "**Yufan Huang**"
   - "Xinyu Ge"
   - "Francesco Stefanutti"
   - "Guoxi Pan"
@@ -14,7 +14,7 @@ author_notes:
 date: "2026-01-09"
 
 # 4 代表 Report
-publication_types: ["4"]
+publication_types: ["course report"]
 
 publication: "Course Project for *Interactive Media Technology*, KTH Royal Institute of Technology"
 publication_short: "KTH Course Project"
@@ -27,9 +27,9 @@ summary: "Investigating VR group-joining behavior through agent politeness and s
 tags:
   - HCI
   - Virtual Reality
-  - Social Computing
-  - Unity
-  - User Study
+  - Social agents
+  - Politeness theory
+  - Free-standing conversational groups
 
 featured: false
 
