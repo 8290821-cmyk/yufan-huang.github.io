@@ -1,7 +1,7 @@
 ---
 title: "The Influence of Politeness Strategies and Spatial Starting Positions when Joining Virtual Agents in Small Groups"
 authors:
-  - "**Yufan Huang**"
+  - "Yufan Huang"
   - "Xinyu Ge"
   - "Francesco Stefanutti"
   - "Guoxi Pan"
