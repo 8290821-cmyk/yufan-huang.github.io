@@ -1,90 +1,58 @@
 ---
-title: 'An example conference paper'
+title: "Interpretation of the University Library New Intelligent Reading Space Based on the Perspective of Service Design"
 
-# Authors
-# If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+# 作者列表：请务必按照知网原件顺序填写
+# 如果你在作者文件夹里有个人资料，系统会自动链接
 authors:
-  - me
-  - Robert Ford
+  - "Tao Cheng"
+  - "Yufan Huang"
+  # - "第三作者姓名" # 如果有第三人请取消注释并填写
 
-# Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - "Equal contribution"
+  - "Equal contribution"
 
-date: '2013-07-01T00:00:00Z'
+# 日期：按照知网 Online Release Time 填写
+date: '2025-09-11'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# 论文类型：'2' 代表期刊文章 (Journal Article)
+publication_types: ['Journal Article']
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+# 刊名：根据截图显示
+publication: "Journal of Hunan University of Science and Technology"
+publication_short: ""
 
-# Publication name and optional abbreviated publication name.
-publication: In *HugoBlox Kit Conference*
-publication_short: In *ICW*
+abstract: |
+  In recent years, university libraries are gradually transforming from traditional document service mode to information intelligence service mode. In order to effectively integrate information technology, digitalization, artificial intelligence into the reading space reasonably to meet the diversified learning and research needs of teachers and students, many colleges and universities are carrying out the construction of smart libraries. Taking the intelligent reading space of the First Library of Hunan University of Science and Technology as an example, and stakeholder diagram and service blueprint as the starting point, this paper discusses the shortcomings of the seat reservation system of the First Library of Hunan University of Science and Technology from the perspective of service design, combined with the basic theory of multiple interactive intelligent reading space and the form of offline co-creation workshops. And the future optimization direction of the new intelligent reading space in university libraries is suggested.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "A study on optimizing university library reading spaces through service design and smart technology integration."
 
 tags:
-  - Large Language Models
+  - Service Design
+  - Intelligent Reading Space
+  - Smart Library
+  - University Library
 
-# Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
+    # 按照截图中的真实 DOI 填写
+    doi: "	10.13582/j.cnki.1674-5884.2025.04.015"
 
-# Custom links
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/kit
-  - type: video
-    url: https://youtube.com
+  - name: CNKI
+    url: "https://oversea.cnki.net/kcms2/article/abstract?v=FeJ59O1VQJcHCFnnvbcXb1j6rHHEONuLP_SAtJFGcma3sz1gwgHN9kOBk80Y25hIsDAzk3irvC47Iih_uUKNSobuiavCvb0F3qz-nmhTyS88NavprrOFhrYaXv7GgOsi61g8TUeSp37chnFeMjh_mtSbTAjG5zG3VlLpiog_9QzKT_icOvRVuA==&uniplatform=OVERSEA&language=EN"
+    icon_pack: ai
+    icon: cnki
+  - name: PDF
+    url: "/uploads/Interpretation of the University Library New Intelligent Reading Space Based on the Perspective of Service Design.pdf" # 如果你有 PDF，上传到 static/uploads/ 后改名填在这里
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+# 删除了不需要的示例链接（Code, Dataset, Slides等），让页面更干净
 ---
 
-> [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+### Author Contribution
+As a **Research Assistant** and the third author of this paper, I contributed significantly to the **experimental design** and played a pivotal role in **overseeing the implementation** of the research process. My responsibilities also included **data acquisition**, **technical drawing and visualization**, and collaborating on the **manuscript drafting and refinement**.
 
 > [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+> Click the _Cite_ button above to import publication metadata into reference management software.
