@@ -1,6 +1,9 @@
 ---
 title: Fungal Fusion
 date: 2024-09-26
+# 重点：在这里加上这一行
+share: false  
+# ------------------
 links:
   - icon: youtube
     icon_pack: fab
