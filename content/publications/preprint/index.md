@@ -8,7 +8,7 @@ authors:
 date: "2024-12-17"
 
 # 论文类型：'2' 代表期刊文章 (Journal Article)
-publication_types: ["2"]
+publication_types: ["Journal Article"]
 
 # 填写你发表论文的期刊名称
 publication: "Advanced Textile Technology" 
