@@ -6,7 +6,6 @@ date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
   spacing: '6rem'
 
 sections:
@@ -16,8 +15,8 @@ sections:
       text: ''
       button:
         text: Download CV
-        # 修正 1：加上开头的斜杠，确保路径正确
-        url: "/uploads/resume.pdf" 
+        # 修正：加上开头的斜杠
+        url: "/uploads/resume.pdf"
       headings:
         about: ''
         education: ''
@@ -36,9 +35,8 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      # 修正 2：确保文本逻辑完整，去掉了末尾多余的一个引号
       text: |-
-        I explore how virtual environments and digital characters can be designed to improve human well-being and social interaction. From investigating user behavior in VR to developing interactive prototypes for digital healthcare, my goal is to create seamless and meaningful experiences. I enjoy combining technical development with empirical user research to understand the impact of emerging technologies on users.
+        I am a graduate student at **KTH Royal Institute of Technology**, focusing on **HCI and Immersive Media**. My work explores how **Service Design** and **VR/MR** technologies can be integrated to solve real-world problems.
     design:
       columns: '1'
 
@@ -48,7 +46,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - publication  # 如果你的文件夹叫 publications，请在这里加个 s
         featured_only: true
     design:
       view: article-grid
@@ -60,10 +58,10 @@ sections:
       text: ''
       filters:
         folders:
-          - publication
+          - publication  # 如果你的文件夹叫 publications，请在这里加个 s
         exclude_featured: false
     design:
       view: citation
 
-# 修正 3：这里必须有这三个横杠作为 YAML 的结束标志！
+# 关键修复：补全结尾横杠，且下方不要有任何文字
 ---
