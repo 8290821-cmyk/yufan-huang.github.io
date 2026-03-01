@@ -46,4 +46,9 @@ links:
 ---
 
 ### Author Contribution
-As the second author, I served as the primary researcher and lead writer for this study. I was responsible for the full conceptualization of the intelligent reading space framework, conducted the stakeholder analysis, and authored the majority of the manuscript. My role also involved leading the co-creation workshops and developing the service blueprints.
+Project Contribution
+In this research project, I served as the Primary Researcher and second Author. I led the end-to-end design process, from initial conceptualization to the final strategic framework:
+
+Service Design & System Architecture: I conceptualized the entire intelligent reading space framework and developed the service blueprints. I conducted in-depth stakeholder analysis to align user needs with technological possibilities, ensuring a seamless integration of digital and physical services.
+
+User Research & Co-creation: I spearheaded the co-creation workshops, facilitating collaborative design sessions to iterate on the space's functionality. My role also involved leading the manuscript development and ensuring the academic rigor of the study's findings.
