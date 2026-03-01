@@ -16,7 +16,8 @@ sections:
       text: ''
       button:
         text: Download CV
-        url: uploads/resume.pdf # 确认一下这里，之前建议改成 /uploads/resume.pdf
+        # 修正 1：加上开头的斜杠，确保路径正确
+        url: "/uploads/resume.pdf" 
       headings:
         about: ''
         education: ''
@@ -31,24 +32,23 @@ sections:
         size: medium
         shape: circle
 
-  # 这里是你之前提到的 Research 介绍，你可以把文字改成你自己的，或者干脆也删掉这一段
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
+      # 修正 2：确保文本逻辑完整，去掉了末尾多余的一个引号
       text: |-
-       I explore how virtual environments and digital characters can be designed to improve human well-being and social interaction. From investigating user behavior in VR to developing interactive prototypes for digital healthcare, my goal is to create seamless and meaningful experiences. I enjoy combining technical development with empirical user research to understand the impact of emerging technologies on users."
+        I explore how virtual environments and digital characters can be designed to improve human well-being and social interaction. From investigating user behavior in VR to developing interactive prototypes for digital healthcare, my goal is to create seamless and meaningful experiences. I enjoy combining technical development with empirical user research to understand the impact of emerging technologies on users.
     design:
       columns: '1'
 
-  # 如果你还没有发表论文，建议把下面这两个 block 也删掉，或者暂时留着
   - block: collection
     id: papers
     content:
       title: Featured Publications
       filters:
         folders:
-          - publications
+          - publication
         featured_only: true
     design:
       view: article-grid
@@ -60,9 +60,10 @@ sections:
       text: ''
       filters:
         folders:
-          - publications
+          - publication
         exclude_featured: false
     design:
       view: citation
 
-  # ----- 我已经帮你删掉了 Recent News 和 Recent & Upcoming Talks -----
+# 修正 3：这里必须有这三个横杠作为 YAML 的结束标志！
+---
