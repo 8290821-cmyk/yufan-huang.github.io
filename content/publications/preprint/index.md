@@ -35,7 +35,7 @@ links:
   icon_pack: ai
   icon: cnki
 - name: PDF
-  url: "/uploads/your-paper.pdf" # 如果有PDF请指向对应路径，没有则删掉这两行
+  url: "/uploads/Cooling performance of phase change ventilation clothing in construction work.pdf" # 如果有PDF请指向对应路径，没有则删掉这两行
 
 # 下面的 code, slides, dataset 等无效链接已全部删除，让页面保持整洁
 ---
