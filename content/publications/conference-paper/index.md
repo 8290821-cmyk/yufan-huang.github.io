@@ -1,24 +1,20 @@
 ---
 title: "Interpretation of the University Library New Intelligent Reading Space Based on the Perspective of Service Design"
 
-# 作者列表：请务必按照知网原件顺序填写
-# 如果你在作者文件夹里有个人资料，系统会自动链接
 authors:
   - "Tao Cheng"
   - "Yufan Huang"
-  # - "第三作者姓名" # 如果有第三人请取消注释并填写
+  - "Yanzhuo Chen" # 如果你是第三作者，请确保这里加上你的名字
 
 author_notes:
   - "Equal contribution"
   - "Equal contribution"
 
-# 日期：按照知网 Online Release Time 填写
 date: '2025-09-11'
 
-# 论文类型：'2' 代表期刊文章 (Journal Article)
-publication_types: ['Journal Article']
+# 必须填数字 '2'，代表 Journal Article
+publication_types: ['2']
 
-# 刊名：根据截图显示
 publication: "Journal of Hunan University of Science and Technology"
 publication_short: ""
 
@@ -37,8 +33,7 @@ featured: true
 
 hugoblox:
   ids:
-    # 按照截图中的真实 DOI 填写
-    doi: "	10.13582/j.cnki.1674-5884.2025.04.015"
+    doi: "10.13582/j.cnki.1674-5884.2025.04.015"
 
 links:
   - name: CNKI
@@ -46,9 +41,9 @@ links:
     icon_pack: ai
     icon: cnki
   - name: PDF
-    url: "/uploads/Interpretation of the University Library New Intelligent Reading Space Based on the Perspective of Service Design.pdf" # 如果你有 PDF，上传到 static/uploads/ 后改名填在这里
+    url: "/uploads/library-reading-space.pdf" # 建议修改文件名，不要带空格
 
-# 删除了不需要的示例链接（Code, Dataset, Slides等），让页面更干净
+# 保持下面为空
 ---
 
 ### Author Contribution
