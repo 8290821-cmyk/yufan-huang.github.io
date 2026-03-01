@@ -1,11 +1,11 @@
 ---
-title: "Cooling performance of phase change ventilation clothing in construction work. Advanced Textile Technology, 2025, 33(7): 109–116. (in Chinese)"
+title: "Cooling performance of phase change ventilation clothing in construction work(in Chinese)"
 authors:
-- Chen, Y., Xu, M., Huang, Y(me).
-date: "2019-04-07T00:00:00Z"
+- Chen Yanzhuo Xiong Mengyuan Huang Yufan Zhang Zhaohua
+date: "2024-12-17 14:45"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-12-17 14:45"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,13 +16,19 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The construction industry is a high-risk sector, especially in hot and humid summer environments where intense physical labor can rapidly increase workers’ body temperature. When environmental conditions cannot be modified, active cooling clothing offers a potential solution to mitigate heat stress. This study evaluated phase change ventilation clothing (combining PCM and built-in fans) compared with ordinary workwear in an artificial climate chamber set at 35 °C and 75% RH, simulating heavy lifting tasks typical of construction work. Eight male subjects participated, and both physiological indicators (mean skin temperature, microclimate temperature and humidity, sweat production, and evaporation rate) and subjective responses (cognitive inhibition, attention, reaction time, thermal sensation, comfort, and humidity sensation) were measured using repeated measures ANOVA and paired t-tests.
+
+Results showed that phase change ventilation clothing significantly reduced skin temperature, clothing microclimate temperature and humidity, and sweat production, while enhancing convective heat transfer and sweat evaporation, thereby suppressing post-exercise body temperature rise. It also helped mitigate cognitive performance decline under heat and humidity. However, PCM melting generated condensation that increased under-clothing humidity, and the overall improvement in thermal comfort during high-intensity summer work was limited, with unstable continuous cooling performance. Future research should focus on slow-melting PCM and optimized fan design to enhance cooling stability and ventilation efficiency, improving comfort for construction workers in hot environments.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- phase change ventilation clothing
+- construction workers
+- thermoregulation
+- thermal and humid sensation
+- skin temperature
 
 featured: true
 
@@ -31,9 +37,9 @@ hugoblox:
     arxiv: 1512.04133v1
 
 links:
-- type: preprint
-  provider: arxiv
-  id: 1512.04133v1
+- type: Published
+  provider: CNKI
+  id: TS941.731
 - type: code
   url: https://github.com/HugoBlox/kit
 - type: slides
