@@ -1,9 +1,7 @@
 ---
 title: 'Projects'
 date: 2024-05-19
-# 重点：在这里加上这一行
-share: false  
-# ------------------
+
 type: landing
 
 design:
