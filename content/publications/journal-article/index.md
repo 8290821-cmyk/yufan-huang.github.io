@@ -1,12 +1,15 @@
 ---
-title: "Interpretation of the University Library New Intelligent Reading Space from the Perspective of Service Design."
+title: "The Influence of Politeness Strategies and Spatial Starting Positions when Joining Virtual Agents in Small Groups"
 authors:
-- Tao Cheng
-- me
+- Yufan Huang
+- Xinyu Ge
+- Francesco Stefanutti
+- Guoxi Pan
+- Yuewei He
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2026-01-09T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -20,7 +23,8 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: |
+  Understanding how people join small conversational groups is important for applications ranging from computer games to human–robot collaboration. This study investigates group-joining behaviour in VR by varying the verbal and non-verbal politeness strategies of virtual agents, as well as users’ spatial starting positions. Participants entered a VR group interaction scenario centred on a social dilemma, examining how agent persuasiveness shaped participants’ trade-off between physical efficiency and social spatial norms. The results show that Direct strategies were necessary for compliance, while Positive strategies supported friendliness. Crucially, both persuasiveness and social norms collapsed significantly; this was driven by the new spatial configurations coupled with interactional ambiguity and a breakdown in perceived social presence.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
