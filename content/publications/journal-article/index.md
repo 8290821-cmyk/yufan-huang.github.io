@@ -35,9 +35,9 @@ featured: false
 
 links:
   - name: Report
-    url: "#"
-  - name: Code
-    url: "https://github.com/YourUsername/YourRepo"
+    url: "uploads/Report"
+  - name: Poster
+    url: "uploads/Poster"
 
 ---
 
