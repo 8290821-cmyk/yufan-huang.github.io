@@ -1,22 +1,21 @@
 ---
 title: "The Influence of Politeness Strategies and Spatial Starting Positions when Joining Virtual Agents in Small Groups"
 authors:
-- "Yufan Huang"
-- "Xinyu Ge"
-- "Francesco Stefanutti"
-- "Guoxi Pan"
-- "Yuewei He"
+  - "Yufan Huang"
+  - "Xinyu Ge"
+  - "Francesco Stefanutti"
+  - "Guoxi Pan"
+  - "Yuewei He"
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+  - "Equal contribution"
+  - "Equal contribution"
 
 date: "2026-01-09"
 
-# '4' 在模板中代表 Report/Course Project，最符合课程论文
+# 4 代表 Report
 publication_types: ["4"]
 
-# 填写学校和课程名，体现专业性
 publication: "Course Project for *Interactive Media Technology*, KTH Royal Institute of Technology"
 publication_short: "KTH Course Project"
 
@@ -26,23 +25,20 @@ abstract: |
 summary: "Investigating VR group-joining behavior through agent politeness and spatial positioning."
 
 tags:
-- HCI
-- Virtual Reality
-- Social Computing
-- Unity
-- User Study
+  - HCI
+  - Virtual Reality
+  - Social Computing
+  - Unity
+  - User Study
 
 featured: false
 
-# 删除了错误的 arXiv ID
-
 links:
-- name: Report
-  url: "" # 如果有 PDF 请上传到 static/uploads/ 并填写路径
-- name: Code
-  url: "https://github.com/你的项目地址" # 如果有代码仓库请填写
+  - name: Report
+    url: "#"
+  - name: Code
+    url: "https://github.com/YourUsername/YourRepo"
 
-# 移除了所有指向 arxiv 的默认链接
 ---
 
 ### Project Contribution
