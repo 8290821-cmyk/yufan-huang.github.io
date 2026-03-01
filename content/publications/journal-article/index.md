@@ -1,77 +1,55 @@
 ---
 title: "The Influence of Politeness Strategies and Spatial Starting Positions when Joining Virtual Agents in Small Groups"
 authors:
-- Yufan Huang
-- Xinyu Ge
-- Francesco Stefanutti
-- Guoxi Pan
-- Yuewei He
+- "Yufan Huang"
+- "Xinyu Ge"
+- "Francesco Stefanutti"
+- "Guoxi Pan"
+- "Yuewei He"
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2026-01-09T00:00:00Z"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+date: "2026-01-09"
 
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ["course report"]
+# '4' 在模板中代表 Report/Course Project，最符合课程论文
+publication_types: ["4"]
 
+# 填写学校和课程名，体现专业性
+publication: "Course Project for *Interactive Media Technology*, KTH Royal Institute of Technology"
+publication_short: "KTH Course Project"
 
 abstract: |
   Understanding how people join small conversational groups is important for applications ranging from computer games to human–robot collaboration. This study investigates group-joining behaviour in VR by varying the verbal and non-verbal politeness strategies of virtual agents, as well as users’ spatial starting positions. Participants entered a VR group interaction scenario centred on a social dilemma, examining how agent persuasiveness shaped participants’ trade-off between physical efficiency and social spatial norms. The results show that Direct strategies were necessary for compliance, while Positive strategies supported friendliness. Crucially, both persuasiveness and social norms collapsed significantly; this was driven by the new spatial configurations coupled with interactional ambiguity and a breakdown in perceived social presence.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Investigating VR group-joining behavior through agent politeness and spatial positioning."
 
 tags:
-- Source Themes
+- HCI
+- Virtual Reality
+- Social Computing
+- Unity
+- User Study
+
 featured: false
 
-hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+# 删除了错误的 arXiv ID
 
 links:
-  - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: ""
-  - type: poster
-    url: ""
-  - type: project
-    url: ""
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: ""
-  - type: video
-    url: ""
+- name: Report
+  url: "" # 如果有 PDF 请上传到 static/uploads/ 并填写路径
+- name: Code
+  url: "https://github.com/你的项目地址" # 如果有代码仓库请填写
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: ""
+# 移除了所有指向 arxiv 的默认链接
 ---
-button to check out the example.
-As a key contributor to this research project, I co-designed the experimental framework and led the technical implementation within Unity, ensuring the reliability of the interactive environment. I was primarily responsible for the integration and debugging of the experimental system, as well as the acquisition and statistical analysis of heart rate variability (HRV) data to evaluate user physiological responses.
+
+### Project Contribution
+In this research project, I served as the **Lead Technical Researcher**. My work bridged the gap between virtual environment creation and human factor analysis:
+
+* **Unity Technical Implementation**: I co-designed the experimental framework and led the technical development within Unity, ensuring the stability and reliability of the interactive VR environment. I was primarily responsible for the **integration and debugging of the experimental system**.
+* **Physiological Data Analysis**: I spearheaded the **acquisition and statistical analysis of heart rate variability (HRV) data** to evaluate user physiological responses and stress levels during the interaction.
+
+> [!NOTE]
+> This paper was developed as a final project for the Interactive Media Technology module at KTH.
