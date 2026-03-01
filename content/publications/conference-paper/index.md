@@ -46,7 +46,7 @@ links:
 ---
 
 ### Author Contribution
-As a **Research Assistant** and the third author of this paper, I contributed significantly to the **experimental design** and played a pivotal role in **overseeing the implementation** of the research process. My responsibilities also included **data acquisition**, **technical drawing and visualization**, and collaborating on the **manuscript drafting and refinement**.
+As the second author, I served as the primary researcher and lead writer for this study. I was responsible for the full conceptualization of the intelligent reading space framework, conducted the stakeholder analysis, and authored the majority of the manuscript. My role also involved leading the co-creation workshops and developing the service blueprints.
 
 > [!NOTE]
 > Click the _Cite_ button above to import publication metadata into reference management software.
