@@ -37,7 +37,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a graduate student at KTH Royal Institute of Technology, focusing on HCI and Immersive Media. (建议改掉默认的 DeepMind 文字)
+       I explore how virtual environments and digital characters can be designed to improve human well-being and social interaction. From investigating user behavior in VR to developing interactive prototypes for digital healthcare, my goal is to create seamless and meaningful experiences. I enjoy combining technical development with empirical user research to understand the impact of emerging technologies on users."
     design:
       columns: '1'
 
@@ -56,7 +56,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: Selected Works
       text: ''
       filters:
         folders:
