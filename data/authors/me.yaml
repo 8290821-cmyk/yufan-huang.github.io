@@ -43,10 +43,7 @@ education:
     end: 2027-06-30
     summary: |
       Human Perception for Information Technology: A
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
+
   - degree: BA Product Design
     institution: Donghua University, China
     start: 2021-09-01
