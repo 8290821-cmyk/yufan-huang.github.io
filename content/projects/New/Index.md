@@ -1,6 +1,7 @@
 ---
-title: Her care
-date: 2024-10-04
+title: Sound Canyon: An Exploratory Game Based on Future Urban Soundscapes
+
+date: 2026-03-08
 # 重点：在这里加上这一行
 share: false  
 # ------------------
@@ -10,13 +11,13 @@ links:
     name: Watch Video
     url: https://youtu.be/FYQAWVqpLyY?si=XtxXyEAjfSMj3AUG
 tags:
-  - Mixed reality
-  - Doctor-patient relationship
-  - Interaction design
+  - Virtual reality
+  - Sound interaction
+  - Game design
 ---
 
-This project uses mixed reality technology and service design principles to redesign the breast cancer treatment process. 
-It aims to support both patients and doctors in surgical communication, helping women cope with body shame and feelings of helplessness after breast cancer.
+This project uses an immersive VR environment where participants traverse a “canyon of sound” to explore and discover the building blocks of their ideal city.
+It aims to encourage users to reflect on their preferences and visions for future urban soundscapes by collecting and assembling different urban sound elements.
 
 ### Project Process
 ![Project Process](/uploads/Process_1_1.png)
